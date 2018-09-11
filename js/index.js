@@ -38,7 +38,7 @@
 
 
 
-JS方法
+// JS方法
 window.onload = function(){
 //第一部分benner
  //侧导航
